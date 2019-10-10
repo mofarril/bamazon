@@ -37,7 +37,7 @@ Once the customer has placed the order, the application checks if the store has 
 
 If not, the app displays unfortunate message, and then prevents the order from going through.
 
-
+Link: https://drive.google.com/file/d/1KetiismPYgiL_zvHWKMoa3a9r63MN3SZ/view?usp=sharing
 
 However, if the store does have enough of the product, the app fulfills the customer's order.
 
