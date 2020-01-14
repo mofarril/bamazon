@@ -1,49 +1,27 @@
 # bamazon
 Node/SQL HW
 
-Challenge #1: Customer View 
+Customer View 
+
+PURPOSE: This is a Mini Amazon CLI app. Where Customers can use it for shopping different items online. 
+
+OVERVIEW: I have used Node JS and SQL to develop this app. Bamazon.sql file describes the schema of the app. BamazonCustomer.js file shows the user opptions to shop from the available items and to calculate the final prcie after the shopping is completed. 
+
+HOW TO USE: Open the bamazon app in Gitbash. To access the Customer part type node bamazonCustomer.js and it will ask for the item id you want to buy and the quantity and will return the total amount to pay. 
+
+DEPLOYED VERSION LINK: https://github.com/mofarril/bamazon
+
+WORKING PROJECT:ink: https://drive.google.com/file/d/1KetiismPYgiL_zvHWKMoa3a9r63MN3SZ/view?usp=sharing
+
+TECHNOLOGIES USED: Node JS, SQL, NPM, easy-table.
+
+MY ROLE: This app is solely developed by me from start to end.
 
 
-Create a MySQL Database called bamazon.
-Then create a Table inside of that database called products.
-The products table should have each of the following columns:
 
 
 
-item_id (unique id for each product)
-product_name (Name of product)
-department_name
-price (cost to customer)
-stock_quantity (how much of the product is available in stores)
 
-
-
-The database populates with 10 mock items.
-
-The Node application called bamazonCustomer.js does the following:
-
-will display all of the items available for sale. 
-
-Include the ids, names, and prices of products for sale.
-The app then prompt users with two messages.
-
-
-The first message asks them the ID of the product they would like to buy.
-The second message asks how many units of the product they would like to buy.
-
-
-Once the customer has placed the order, the application checks if the store has enough of the product to meet the customer's request.
-
-
-If not, the app displays unfortunate message, and then prevents the order from going through.
-
-Link: https://drive.google.com/file/d/1KetiismPYgiL_zvHWKMoa3a9r63MN3SZ/view?usp=sharing
-
-However, if the store does have enough of the product, the app fulfills the customer's order.
-
-
-This means it updates the SQL database to reflect the remaining quantity.
-Once the update goes through, it shows the customer the total cost of their purchase.
 
 
 
