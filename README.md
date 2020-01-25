@@ -1,7 +1,5 @@
 # Bamazon
 
-## Purpose 
-
 This is a Mini Amazon CLI app. Where Customers can use it for shopping different items online. 
 
 ## OVERVIEW
@@ -12,9 +10,10 @@ Node JS and SQL werer used to develop this app. Bamazon.sql file describes the s
 
 Open the bamazon app in Gitbash. To access the Customer part type node bamazonCustomer.js and it will ask for the item id you want to buy and the quantity and will return the total amount to pay. 
 
-## DEPLOYED LINK: https://github.com/mofarril/bamazon
+## LINKS
 
-## WORKING PROJECT Video: https://drive.google.com/file/d/1KetiismPYgiL_zvHWKMoa3a9r63MN3SZ/view?usp=sharing
+* code: https://github.com/mofarril/bamazon
+* project video: https://drive.google.com/file/d/1KetiismPYgiL_zvHWKMoa3a9r63MN3SZ/view?usp=sharing
 
 ## TECHNOLOGIES USED
 * Node JS
