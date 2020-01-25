@@ -1,6 +1,6 @@
 # Bamazon
 
-This is a Mini Amazon CLI app. Where Customers can use it for shopping different items online. 
+This is a Mini Amazon CLI app. Where customers can shop for different items online. 
 
 ## OVERVIEW
 
